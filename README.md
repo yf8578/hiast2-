@@ -1,4 +1,4 @@
-# hiast2-相关参数
+# hiast2-相关参数——test git
 ```
 HISAT2 version 2.1.0 by Daehwan Kim (infphilo@gmail.com, www.ccb.jhu.edu/people/infphilo)
 Usage: 
